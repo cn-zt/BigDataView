@@ -1,15 +1,37 @@
+####声明：
+以下内容皆是由博主DreamCodeers分享(绿泡泡公众号)
 
 <p align="center"><h1 align="center">100+套大数据可视化模板</h1></p>
+100 套大数据可视化模板
+
+100 套大数据可视化模板
+
+100 套大数据可视化模板
+
+100 套大数据可视化模板
+
+100 套大数据可视化模板
+
+100 套大数据可视化模板
+
+100 套大数据可视化模板
+
 
 </br></br>
 
 <p align="center">
-  <a href="https://igaowei.github.io/BigDataView/"><img src="https://img.shields.io/badge/%E9%A2%84%E8%A7%88-Demo-green" alt="预览"></a>
+  <a href="https://igaowei.github.io/BigDataView/"><img src="https://img.shields.io/badge/%E9%A2%84%E8%A7%88-Demo-green" alt="预览"></a>点击这里查看 BigDataView 的演示页面：
+
+
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-DreamCoders-blue" alt="公众号"></a>
-  <a href="https://blog.csdn.net/qq_31766533/article/details/119274641"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/igaowei/bigdataview?label=Github&style=flat-square">
-  <a href='https://gitee.com/iGaoWei/big-data-view/stargazers'><img src='https://gitee.com/iGaoWei/big-data-view/badge/star.svg?theme=white' alt='star'></img></a>
-  <a href='https://gitee.com/iGaoWei/big-data-view/members'><img src='https://gitee.com/iGaoWei/big-data-view/badge/fork.svg?theme=white' alt='fork'></img></a>
+  <a href="https://blog.csdn.net/qq_31766533/article/details/119274641"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>链接：
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/igaowei/bigdataview?label=Github&style=flat-square">（GitHub 仓库）星标
+  <a href='https://gitee.com/iGaoWei/big-data-view/stargazers'><img src='https://gitee.com/iGaoWei/big-data-view/badge/star.svg?theme=white' alt='star'></img></a>链接：
+
+图像：
+
+描述：一个带有星星图标的链接，指向名为“big-data-view”的项目在GitHub上的“Stargazers”页面。
+  <a href='https://gitee.com/iGaoWei/big-data-view/members'><img src='https://gitee.com/iGaoWei/big-data-view/badge/fork.svg?theme=white' alt='fork'></img></a>点击这里查看该项目的成员列表：
 </p>
 
 
@@ -26,33 +48,42 @@
 
 #### 源码地址
 
-<p style="padding:10px;"  width="90%">
+<p style="padding:10px;"  width="90%">人工智能是计算机科学的一个分支，它研究如何让计算机像人类一样思考和解决问题。人工智能系统可以执行各种任务，从识别语音和图像到驾驶汽车和诊断疾病。随着技术的进步，人工智能在许多领域都有着广泛的应用，例如金融、医疗、教育和制造业等。然而，人工智能也带来了一些挑战，例如隐私和安全问题。因此，在开发和使用人工智能时，我们必须谨慎行事，确保其对社会和环境的积极影响最大化。
 
 1. Gitee https://gitee.com/iGaoWei/big-data-view
 
-2. GitHub https://github.com/iGaoWei/BigDataView
+2. GitHub https://github.com/iGaoWei/BigDataView2. GitHub 上的“大数据可视化”项目，地址为 
 
 </p>
 
 #### 使用说明
 
-<p style="padding:10px;"  width="90%">
+<p style   风格="padding:10px;"  width   宽度="90%">人工智能是计算机科学的一个分支，它研究如何让计算机像人类一样思考和解决问题。人工智能系统可以执行各种任务，从识别语音和图像到驾驶汽车和诊断疾病。随着技术的进步，人工智能在许多领域都有着广泛的应用，例如金融、医疗、教育和制造业等。然而，人工智能也带来了一些挑战，例如隐私和安全问题。因此，在开发和使用人工智能时，我们必须谨慎行事，确保其对社会和环境的积极影响最大化。
 
 1.Gitee直接克隆下载，使用浏览器访问静态页面即可。
 
 ```
-git clone https://gitee.com/iGaoWei/big-data-view.git
+git clone https://gitee.com/iGaoWei/big-data-view.git使用Git克隆iGaoWei在GitHub上的Big Data View项目：
+```lua
+git clone https：//gitee.com/iGaoWei/big-data-view.git
+```
 ```
 
 2.GitHub直接克隆下载，使用浏览器访问静态页面即可。
 ```
-git clone https://github.com/iGaoWei/BigDataView.git
+git clone https://github.com/iGaoWei/BigDataView.git使用Git克隆iGaoWei的BigDataView项目：
+```lua
+git clone https：//github.com/iGaoWei/BigDataView.git使用Git克隆iGaoWei的BigDataView项目：
+```lua
+git clone https：//github.com/iGaoWei/BigDataView.git
+```
+```
 ```
 3.网盘下载地址：关注公众号【DreamCoders】回复”BigDataView“即可获取
 
 4.扫描下方微信小程序码，获取下载地址
 
-<img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/question/20240715/2024071504404229838.png" width="30%" onerror="this.src='https://cdn.jsdelivr.net/gh/iGaoWei/codercdn@master/question/20240715/2024071504404229838.png'" />
+<img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/question/20240715/2024071504404229838.png" width="30%" onerror="this.src='https://cdn.jsdelivr.net/gh/iGaoWei/codercdn@master/question/20240715/2024071504404229838.png'" />图片无法显示，请提供更多上下文以便我能为您提供更准确的翻译。
 </p>
 
 
@@ -65,13 +96,19 @@ git clone https://github.com/iGaoWei/BigDataView.git
 在线预览时，有可能因为GithubPages浏览器环境问题，导致页面不兼容，不能正常显示，请以截图为准，或下载到本地测试预览,感谢支持！～
 ```
 ##### 001 政务服务大数据可视化监管平台 [在线预览](https://igaowei.github.io/BigDataView/web/001%20%E6%9C%8D%E5%8A%A1%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9B%91%E7%AE%A1%E5%B9%B3%E5%8F%B0/)
-<img src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/001.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/001.gif'" width="100%" />
+<img 下面是该图片的中文翻译：
+
+src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/001.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/001.gif'" width="100%" />
 
 ##### 002 水质情况实时监测预警系统 [在线预览](https://igaowei.github.io/BigDataView/web/001%20%E6%9C%8D%E5%8A%A1%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9B%91%E7%AE%A1%E5%B9%B3%E5%8F%B0/)
-<img src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/002.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/002.gif'" width="100%" />
+<img 下面是该图片的中文翻译：
+
+src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/002.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/002.gif'" width="100%" />
 
 ##### 003 酷炫智能大屏数据中心 [在线预览](https://igaowei.github.io/BigDataView/web/003%20%E8%81%94%E5%BF%83%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/)
-<img src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/003.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/003.gif'" width="100%" />
+<img src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/003.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/003.gif'" width="100%" />下面是该图片的中文翻译：
+
+
 
 ##### 004 政务大数据共享交换平台 [在线预览](https://igaowei.github.io/BigDataView/web/004%20%E6%94%BF%E5%8A%A1%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%E4%BA%A4%E6%8D%A2%E5%B9%B3%E5%8F%B0/)
 <img src="https://gitee.com/iGaoWei/big-data-view/raw/master/gif/004.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/004.gif'" width="100%" />
